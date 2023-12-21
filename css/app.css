@@ -1,0 +1,50 @@
+body {
+    font-family: Helvetica;
+    border: 2px solid red;
+}
+
+header {
+    background-image: url(/img/img1.webp);
+    margin: 100px 10px
+}
+
+header h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+}
+
+main article {
+    margin: 30px 10px;
+}
+
+main article h2 {
+    color: white;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+p {
+    margin: 10px 10px;
+}
+
+h2 bold {
+    margin: 100px 10px
+}
+
+p span {
+    font-weight: bold;
+    color: blue;
+}
+
+.brushes h2 {
+    background-color: mediumaquamarine;
+}
+
+.frames h2 {
+    background-color: lightcoral;
+}
+
+.paint h2 {
+    background-color: skyblue;
+}
